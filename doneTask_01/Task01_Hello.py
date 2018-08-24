@@ -1,0 +1,3 @@
+print('Введите свое имя:')
+username = input()
+print('Hello, ', username, '!', sep='')
